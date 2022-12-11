@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "eslint": "^6.7.1",
-    "express": "^4.16.1",
+    "express": "^4.17.3",
     "node-rsa": "^1.0.7",
     "prettier": "^1.19.1"
   }
